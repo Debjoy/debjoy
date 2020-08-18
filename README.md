@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Debjoy here! 
 
-<!--
-**Debjoy/debjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About me?
 
-Here are some ideas to get you started:
+I am a front-end developer who loves designing and create projects as my hobby. I try to keep most of my projects open-source here on github so that it might help or give ideas to someone somewhere. I am proud to be a part of the ❄ Arctic Code Vault Contributor which means that my code will be preserved in the artic for thousands of years to come. (Thank you github 😍)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is my current status:
+
+- 💼 I’m currently working in Cognizant.
+- 💻 My side projects contributions will decrease for the above reason.
+- 💬 Feel free to contact me to ask me about my projects or anything in general.
+- 🎉 Have fun in what ever you do in life.
+
+
