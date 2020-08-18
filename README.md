@@ -2,7 +2,7 @@
 
 ## About me?
 
-I am a front-end developer who loves designing and create projects as my hobby. I try to keep most of my projects open-source here on Github so that it might help or give ideas to someone somewhere. I am proud to be a part of the ❄ Arctic Code Vault Contributor which means that my code will be preserved in the arctic for thousands of years to come. (Thank you GitHub 😍)
+I am a front-end developer who loves designing and create projects as my hobby. I try to keep most of my projects open-source here on Github so that it might help or give ideas to someone somewhere. I am proud to be a part of the ❄ Arctic Code Vault Contributor which means that my code will be preserved in the arctic for thousands of years. (Thank you GitHub 😍)
 
 Here is my current status:
 
